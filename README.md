@@ -1,13 +1,12 @@
 # ToDoList-Manager
 A simple, file-based Command Line Interface (CLI) To-Do List application written in pure Python for Evaluated Course Project. Tasks persist across sessions using a plain text file.
-📝 Python To-Do List Manager
 
-Overview
+**Overview**
 
 This is an easy-to-use beginner-oriented Command Line Interface (CLI) tool designed to handle a to-do list. The program is developed entirely in Python. Relies on a simple text file (todo.txt), for storage ensuring your tasks remain saved after exiting the application.
 
 
-Features
+**Features**
 
 --Insert Tasks: Rapidly add entries to your list.
 
@@ -20,14 +19,14 @@ Features
 --Persistence: Every modification is saved automatically to todo_list.txt.
 
 
-Prerequisites
+**Prerequisites**
 
 To execute this program having Python installed on your computer is all that’s required.
 
 Python 3.x (Check your version by running python --version or python3 --version)
 
 
-Installation and Setup
+**Installation and Setup**
 
 Since this is a single-file application, setup is very simple.
 
@@ -40,13 +39,11 @@ cd [YOUR_REPOSITORY_NAME]
 Verify the File Presence: Confirm that the todo_cli.py file is located in your working directory.
 
 
-Usage
+**Usage**
 
 To start the application, navigate to the project directory in your terminal or command prompt and run the following command:
 
 python todo.py
-
-Main Menu Options
 
 When the application launches the menu will appear:
 
@@ -77,11 +74,11 @@ PYTHON SIMPLE TO-DO LIST (CLI)
 5 (Exit): Terminates the application. Guarantees that all data is preserved.
 
 
-Data Storage
+**Data Storage**
 
 The program automatically. Handles a file called todo_list.txt within the identical folder where you execute the script. This document keeps your tasks with each task, on its line featuring the [ ] or [x] status indicator.
 
 
-Contributing
+**Contributing**
 
 Feel free to suggest improvements or new features!
