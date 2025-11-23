@@ -2,11 +2,11 @@
 A simple, file-based Command Line Interface (CLI) To-Do List application written in pure Python for Evaluated Course Project. Tasks persist across sessions using a plain text file.
 📝 Python To-Do List Manager
 
-🌟 Overview
+Overview
 
 This is an easy-to-use beginner-oriented Command Line Interface (CLI) tool designed to handle a to-do list. The program is developed entirely in Python. Relies on a simple text file (todo.txt), for storage ensuring your tasks remain saved after exiting the application.
 
-✨ Features
+Features
 
 --Insert Tasks: Rapidly add entries to your list.
 --View Tasks: Show every task along, with its index number and current status ([ ] or [x]).
@@ -35,7 +35,9 @@ Main Menu Options
 When the application launches the menu will appear:
 
 ===================================
+
 PYTHON SIMPLE TO-DO LIST (CLI)
+
 ===================================
 1. Add a New Task
 2. View All Tasks
