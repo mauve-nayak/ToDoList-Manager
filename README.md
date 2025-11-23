@@ -2,7 +2,7 @@
 
 **Overview**
 
-This is an easy-to-use beginner-oriented Command Line Interface (CLI) tool designed to handle a to-do list. The program is developed entirely in Python. Relies on a simple text file (todo.txt), for storage ensuring your tasks remain saved after exiting the application.
+This is an easy-to-use beginner-oriented Command Line Interface (CLI) tool designed to handle a to-do list. The program is developed entirely in Python. Relies on a simple text file (todo_list.txt), for storage ensuring your tasks remain saved after exiting the application.
 
 
 **Features**
