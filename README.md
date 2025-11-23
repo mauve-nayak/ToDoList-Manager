@@ -17,6 +17,8 @@ This is an easy-to-use beginner-oriented Command Line Interface (CLI) tool desig
 
 --Persistence: Every modification is saved automatically to todo_list.txt.
 
+--Error Handling: Handles the error proficiently.
+
 
 **Prerequisites**
 
