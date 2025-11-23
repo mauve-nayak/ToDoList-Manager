@@ -1,4 +1,4 @@
-f1 = 'todo.txt'
+f1 = 'todo_list.txt'
 tasks = []
 def load_tasks():
     global tasks
@@ -91,3 +91,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
