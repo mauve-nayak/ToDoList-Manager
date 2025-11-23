@@ -10,15 +10,15 @@ This is a project to practice fundamental Python skills such, as functions, loop
 
 ✨ Features
 
-Insert Tasks: Rapidly add entries to your list.
+--Insert Tasks: Rapidly add entries to your list.
 
-View Tasks: Show every task along, with its index number and current status ([ ] or [x]).
+--View Tasks: Show every task along, with its index number and current status ([ ] or [x]).
 
-Mark as Done: Easily change a task's status from [ ] (To Do) to [x] (Done).
+--Mark as Done: Easily change a task's status from [ ] (To Do) to [x] (Done).
 
-Delete Tasks: Remove completed or unwanted tasks from the list permanently.
+--Delete Tasks: Remove completed or unwanted tasks from the list permanently.
 
-Persistence: Every modification is saved automatically to todo_list.txt.
+--Persistence: Every modification is saved automatically to todo_list.txt.
 
 🛠️ Prerequisites
 
