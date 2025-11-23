@@ -33,9 +33,9 @@ Since this is a single-file application, setup is very simple.
 
 Clone the Repository (or Download the File):
 
-git clone [YOUR_REPOSITORY_URL]
+git clone https://github.com/mauve-nayak/ToDoList-Manager
 
-cd [YOUR_REPOSITORY_NAME]
+cd ToDoList-Manager
 
 Verify the File Presence: Confirm that the todo_cli.py file is located in your working directory.
 
@@ -53,6 +53,7 @@ When the application launches the menu will appear:
 PYTHON SIMPLE TO-DO LIST
 
 ===================================
+
 1. Add a New Task
 
 2. View All Tasks
