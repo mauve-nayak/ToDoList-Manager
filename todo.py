@@ -4,7 +4,9 @@ def load_tasks():
     global tasks
     try:
         with open(f1,'r') as file:
-            tasks = [line.strip() for line in file.readlines()]
+            tasks = []
+            for line in file.readlines():
+                tasks.append(line.strip())
     except FileNotFoundError:
         tasks = []
 def save_tasks():
@@ -87,4 +89,5 @@ def main():
         else:
             print("\n🛑 Invalid choice. Please enter a number between 1 and 5.")
 if __name__ == "__main__":
+
     main()
