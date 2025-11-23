@@ -50,7 +50,7 @@ When the application launches the menu will appear:
 
 ===================================
 
-PYTHON SIMPLE TO-DO LIST (CLI)
+PYTHON SIMPLE TO-DO LIST
 
 ===================================
 1. Add a New Task
